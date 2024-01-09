@@ -3,6 +3,6 @@ A Cargo subcommand to run [Roogle](https://github.com/hkmatsumoto/roogle) on loc
 
 # Installation
 ```sh
-$ cargo install roogle
+$ cargo install roogle --locked
 $ cargo install cargo-roogle
 ```
